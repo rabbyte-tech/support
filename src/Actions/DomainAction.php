@@ -3,7 +3,7 @@
 namespace RabbyteTech\Support\Actions;
 
 use Illuminate\Auth\Access\AuthorizationException;
-use Rabbyte\Contracts\Authorization\AbilityResolver;
+use RabbyteTech\Contracts\Authorization\AbilityResolver;
 
 abstract class DomainAction
 {

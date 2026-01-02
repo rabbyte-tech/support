@@ -2895,12 +2895,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/rabbyte-tech/contracts.git",
-                "reference": "7a9e7a8b5507fd260ac3fea58b5d3dac209cb979"
+                "reference": "ba576858b10acc290e3d647a7a4ff4c05839132b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/rabbyte-tech/contracts/zipball/7a9e7a8b5507fd260ac3fea58b5d3dac209cb979",
-                "reference": "7a9e7a8b5507fd260ac3fea58b5d3dac209cb979",
+                "url": "https://api.github.com/repos/rabbyte-tech/contracts/zipball/ba576858b10acc290e3d647a7a4ff4c05839132b",
+                "reference": "ba576858b10acc290e3d647a7a4ff4c05839132b",
                 "shasum": ""
             },
             "require": {
@@ -2923,7 +2923,7 @@
                 "issues": "https://github.com/rabbyte-tech/contracts/issues",
                 "source": "https://github.com/rabbyte-tech/contracts/tree/main"
             },
-            "time": "2026-01-02T08:07:28+00:00"
+            "time": "2026-01-02T13:47:14+00:00"
         },
         {
             "name": "ralouphie/getallheaders",
