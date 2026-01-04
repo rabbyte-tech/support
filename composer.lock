@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "f966cf5b44ac2ec8e81d2d5fdb488775",
+    "content-hash": "2f8280e0de56447ebff9a113634ef9f6",
     "packages": [
         {
             "name": "brick/math",
@@ -2891,7 +2891,7 @@
         },
         {
             "name": "rabbytetech/contracts",
-            "version": "dev-main",
+            "version": "0.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/rabbyte-tech/contracts.git",
@@ -2907,7 +2907,6 @@
                 "laravel/framework": "^12.44",
                 "php": "^8.2"
             },
-            "default-branch": true,
             "type": "library",
             "autoload": {
                 "psr-4": {
@@ -2921,7 +2920,7 @@
             "description": "RabbyteTech contracts",
             "support": {
                 "issues": "https://github.com/rabbyte-tech/contracts/issues",
-                "source": "https://github.com/rabbyte-tech/contracts/tree/main"
+                "source": "https://github.com/rabbyte-tech/contracts/tree/v0.1.0"
             },
             "time": "2026-01-02T13:47:14+00:00"
         },
@@ -5832,9 +5831,7 @@
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": {
-        "rabbytetech/contracts": 20
-    },
+    "stability-flags": {},
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
